@@ -21,4 +21,4 @@ This project models and simulates the heat distribution and battery consumption 
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tank-heat-battery-simulation.git
+   git clone https://github.com/evrenbaris/tank-heat-battery-simulation.git
